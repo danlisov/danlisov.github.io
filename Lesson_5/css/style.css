@@ -1,0 +1,9 @@
+h1,h3{text-align: center;}
+.name{text-align: center;}
+a{color:#fff;}
+body{background:url(../img/fon.jpg);text-align: justify;}
+.content{text-align: center;border: solid;width: 10%;border-color: #8B0000;}
+.em{font-style: italic;}
+.s{text-decoration: line-through;}
+.u{text-decoration:underline; }
+.strong{font-weight: bold;}
