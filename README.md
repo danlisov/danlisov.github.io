@@ -9,8 +9,9 @@
 
 <<[Урок 5](danlisov.github.io/Lesson_5/ "Свёрстанная на HTML и CSS мини-книга")
 
-<<[Урок 6.1](danlisov.github.io/Lesson_6.1/ " ") и
-<<[Урок 6.2](danlisov.github.io/Lesson_6.2/ "Тренировка позиционирования")
+<<[Урок 6.1](danlisov.github.io/Lesson_6.1/ "Тренировка позиционирования 1") 
+
+<<[Урок 6.2](danlisov.github.io/Lesson_6.2/ "Тренировка позиционирования 2")
 
 <<[Урок 7](danlisov.github.io/Lesson_7/ "Первый сайт")
 
