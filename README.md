@@ -1,10 +1,6 @@
 # Денис Лысов
 ## Мои домашние задания
 
->>[Урок 2](danlisov.github.io/Lesson_2/)
-
->>[Урок 3](danlisov.github.io/Lesson_3/)
-
 >>[Урок 4](danlisov.github.io/Lesson_4/index.html)
 
 >>[Урок 5](danlisov.github.io/Lesson_5/index.html)
