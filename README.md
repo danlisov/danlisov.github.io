@@ -17,4 +17,4 @@
 
 >>[Урок 10](danlisov.github.io/Lesson_10/less/main.less)
 
->>[Урок 13](danlisov.github.io/Lesson_13/index.html)
+>>[Урок 13](danlisov.github.io/Lesson_13/src/index.html)
