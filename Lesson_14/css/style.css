@@ -1,14 +1,4 @@
-@font-face {
-	font-family: 'LatoRegular';
-	src: url('../fonts/Lato-Regular.eot');
-	src: url('../fonts/Lato-Regular.eot?#iefix') format('embedded-opentype'),
-		url('../fonts/Lato-Regular.woff2') format('woff2'),
-		url('../fonts/Lato-Regular.woff') format('woff'),
-		url('../fonts/Lato-Regular.ttf') format('truetype'),
-		url('../fonts/Lato-Regular.svg#Lato-Regular') format('svg');
-	font-weight: normal;
-	font-style: normal;
-}
+
 
 .text-box{
 	padding-top: 2rem;
@@ -25,6 +15,19 @@
 small {
 	font-size: 1.3rem;
 }
+
+@font-face {
+	font-family: 'Lato';
+	src: url('../fonts/Lato/Lato-BoldItalic.eot');
+	src: url('../fonts/Lato/Lato-BoldItalic.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/Lato/Lato-BoldItalic.woff2') format('woff2'),
+		url('../fonts/Lato/Lato-BoldItalic.woff') format('woff'),
+		url('../fonts/Lato/Lato-BoldItalic.ttf') format('truetype'),
+		url('../fonts/Lato/Lato-BoldItalic.svg#Lato-BoldItalic') format('svg');
+	font-weight: bold;
+	font-style: italic;
+}
+
 .Sans{
 	font-family: 'Open Sans', sans-serif;
 }
@@ -32,7 +35,7 @@ small {
 	font-family: 'Bebas', sans-serif;
 }
 .Lato{
-	font-family: 'Lato', sans-serif;
+	font-family: 'Lato',  sans-serif ;
 }
 .Lobster{
 	font-family: 'Lobster', sans-serif; 
