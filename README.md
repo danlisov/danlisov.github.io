@@ -26,3 +26,5 @@
 [Практика. Часть 2](danlisov.github.io/practical_work_2/src/index.html )
 
 [Урок 15](danlisov.github.io/Lesson_15/index.html)
+
+[Практика. Часть 3](danlisov.github.io/practical_work_3/src/index.html )
