@@ -22,13 +22,13 @@ h2 {
 .image-one {
 	background: url(../img/1.jpg) center no-repeat;
 	background-size: cover;
-	transition: all 0.2s;
 }
 .image-one::before{
 	content: '';
 	position: absolute;
 	background-color: rgba(0,0,0,0.5);
 	opacity: 0;
+		transition: all 0.2s;
 	width: 200px;
 	height: 200px;
 }
@@ -38,13 +38,13 @@ opacity:1;
 .image-two {
 	background: url(../img/2.jpg) center no-repeat;
 	background-size: cover;
-	transition: all 0.2s;
 }
 .image-two::before{
 	content: '';
 	position: absolute;
 	background-color: rgba(0,0,0,0.5);
 	opacity: 0;
+		transition: all 0.2s;
 	width: 200px;
 	height: 200px;
 }
@@ -54,13 +54,13 @@ opacity:1;
 .image-three {
 	background: url(../img/3.jpg) center no-repeat;
 	background-size: cover;
-	transition: all 0.2s;
 }
 .image-three::before{
 	content: '';
 	position: absolute;
 	background-color: rgba(0,0,0,0.5);
 	opacity: 0;
+	transition: all 0.2s;
 	width: 200px;
 	height: 200px;
 }
@@ -76,6 +76,7 @@ opacity:1;
 	position: absolute;
 	background-color: rgba(0,0,0,0.5);
 	opacity: 0;
+		transition: all 0.2s;
 	width: 200px;
 	height: 200px;
 }
