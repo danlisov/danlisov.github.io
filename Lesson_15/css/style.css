@@ -22,6 +22,7 @@ h2 {
 .image-one {
 	background: url(../img/1.jpg) center no-repeat;
 	background-size: cover;
+	transition: all 0.2s;
 }
 .image-one::before{
 	content: '';
@@ -37,6 +38,7 @@ opacity:1;
 .image-two {
 	background: url(../img/2.jpg) center no-repeat;
 	background-size: cover;
+	transition: all 0.2s;
 }
 .image-two::before{
 	content: '';
@@ -52,6 +54,7 @@ opacity:1;
 .image-three {
 	background: url(../img/3.jpg) center no-repeat;
 	background-size: cover;
+	transition: all 0.2s;
 }
 .image-three::before{
 	content: '';
