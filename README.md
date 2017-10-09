@@ -34,3 +34,5 @@
 [Практика. Часть 4](danlisov.github.io/practical_work_4/src/index.html )
 
 [Урок 17](danlisov.github.io/Lesson_17/index.html)
+
+[Практика. Часть 5](danlisov.github.io/practical_work_5/src/index.html )
