@@ -1,0 +1,29 @@
+.modal{
+	box-shadow: 5px;
+}
+
+.modal-footer{
+	text-align: left;
+}
+
+.btn-yes, .btn-no{
+	width: 65px;
+	height: 35px;
+}
+
+h4{
+	font-weight: 900;
+	color: white;
+}
+
+.modal-header{
+	background-color: #342833;
+}
+
+.close{
+	color:white;
+}
+
+.modal-body{
+	color:#989898;
+}
