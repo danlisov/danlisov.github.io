@@ -36,3 +36,9 @@
 [Урок 17](danlisov.github.io/Lesson_17/index.html)
 
 [Практика. Часть 5](danlisov.github.io/practical_work_5/src/index.html )
+
+[Урок 18.1](danlisov.github.io/Lesson_18.1/index.html)
+
+[Урок 18.2](danlisov.github.io/Lesson_18.2/index.html)
+
+[Практика. Часть 6](danlisov.github.io/practical_work_6/src/index.html )
