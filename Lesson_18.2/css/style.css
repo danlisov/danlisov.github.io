@@ -1,0 +1,149 @@
+body{
+	background-image: url(../img/fon.png);
+	box-sizing:border-box;
+}
+.container{	
+	width: 630px;
+	height: 410px;
+}
+a{
+		font-size: 24px;
+  color:black;
+  text-decoration: none;
+}
+.nav {
+	padding-left: 0;
+	margin-bottom: 0;
+		border-bottom: 0;
+  margin-top: 25px; 
+}
+
+.entrance{
+	margin-top: 50px;
+  margin:0;
+  display: block;
+		float: left;	
+}
+
+.reg{
+	margin-top: 50px;
+  margin:0;
+  display: block;
+		float: left;
+}
+.reg:hover{
+	color:red;
+}
+.tab-content{
+	 width: 630px;
+  height: 410px;
+  background-color: #03a5da;
+  border-radius: 5px;
+  box-shadow: 0 0 1px #D8D8D8;
+}
+input{
+	margin-top: 40px;
+	margin-bottom: 10px;
+}
+.entra{
+	position: absolute;
+	 background-color: #fff;
+	 height: 35px;
+	 margin-top: 20px;
+	 line-height: 20px;
+  border-top: 0;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+.registr{
+	position: absolute;
+	 background-color: #fff;
+	 height: 35px;
+	 margin-top: 20px;
+	 line-height: 20px;
+  border-top: 0;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+.entra, .entra:focus, .entra:hover{
+	color: #fff;
+  text-shadow: 1px 1px 2px #333;    
+  background-color: #03a5da;
+  margin-left: 30px;
+  margin-right: 10px;
+  border: none;
+}
+.form{
+	position: absolute;
+  margin: 26px;
+  width: 580px;
+  height: 360px;
+  padding: 25px;
+  border-radius: 10px;
+  background-color: #000;
+}
+.form-control{
+	background-color: #1E1D1D;
+  border:none;
+  width: 50rem;
+  height: 6rem;
+  padding: 1rem;
+  font-size: 22px;
+  color: #fff;
+}
+.pass{
+	display: inline-block;
+	font-size: 15px;
+ max-width: 100%;
+ margin-top: 15px;
+ margin-left: 35px;
+	color: #c51f03;
+}
+label{
+	display: inline-block;
+ 
+ margin-left: 35px;
+ font-weight: 700;
+}
+.btn-enty:after{
+	content:'';
+	position: absolute;
+	left: 50px;
+	border: 7px solid transparent;
+	border-top: 7px solid #7f0501;
+	border-left: 7px solid #7f0501;
+	margin-top: 39px;
+	margin-left: 75px;
+	background: radial-gradient(#2b0200,#250200);
+}
+.btn-enty{
+	position: absolute;
+ width: 140px;
+ height: 45px;
+ color: #ffffff;
+ background: radial-gradient(#830701, #c21e03);
+ border: none;
+ font-size: 20pt;
+ margin-top:-20px ;
+ margin-left: 280px;
+ line-height: 35px;
+ outline: none;
+ text-align: center;
+}
+.form-input{
+	width: 480px;
+	height: 60px;
+	border-radius: 10px;
+	border: none;
+	display:block;
+	background-color: #1d1c1c;
+}
+.password{
+	margin-top: 30px;
+}
+.forgot{
+	display: block;
+}
+.me{
+	margin-top: 30px;
+}

@@ -1,0 +1,34 @@
+body{
+	background-image: url(../img/fon.png);
+}
+.container{
+	text-align: center;
+	width: 760px;
+	height: 276px;
+}
+h1{
+	font-size: 36pt;
+	color: #0bbaf0;
+	margin-bottom: 0;
+}
+h2{
+	font-size: 24pt;
+	margin-top: 0;
+	margin-bottom: 50px;
+	color:#37c5f2;
+}
+.panel{
+	text-align: center;
+}
+a.collapsed, a.collapsed:hover, a.collapsed:active, a.collapsed:visited{
+text-decoration: none!important;
+outline-style: none;
+}
+.panel-heading{
+	background-color: #0bbaf0;
+	color:#fff;
+}
+.panel-body{
+	border: 3px solid #dcdcdc;
+	border-radius: 10px;
+}
