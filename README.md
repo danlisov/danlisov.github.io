@@ -42,3 +42,5 @@
 [Урок 18.2](danlisov.github.io/Lesson_18.2/index.html)
 
 [Практика. Часть 6](danlisov.github.io/practical_work_6/src/index.html )
+
+[Урок 19](danlisov.github.io/Lesson_19/index.html)
