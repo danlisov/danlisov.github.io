@@ -410,7 +410,7 @@ button, input, a, textarea{
  	label{
  		position: absolute;
  		background-color: @light;
- 		transform: translate(-50%, -10px);
+ 		transform: translate(-50%, 8px);
  	}
  }
  	&-btn{
@@ -476,6 +476,9 @@ button, input, a, textarea{
 		&-form{
 			padding: 3rem 5rem;
 		}
+		&-text{
+			width: 100%;
+		}
 		.fotorama{
 			margin-bottom: 3rem;
 		}
@@ -515,6 +518,9 @@ button, input, a, textarea{
 		.feedback{
 		&-form{
 			padding: 3rem 5rem;
+			label{
+				transform: translate(-50%, -10px);
+			}
 		}
 		.fotorama{
 			margin-bottom: 3rem;
@@ -556,6 +562,16 @@ button, input, a, textarea{
 		padding: 3rem 3rem;
 	}
 	.feedback{
+		h2{
+			font-size: 14pt;
+		}
+		padding: 3rem;
+		
+		&-form{
+			label{
+				font-size: 1rem;
+			}
+		}
 		&-prev-btn{
 		left: 0;
 	}

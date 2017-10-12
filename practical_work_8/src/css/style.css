@@ -353,8 +353,8 @@ textarea:focus {
 .feedback-form label {
   position: absolute;
   background-color: #ffffff;
-  -webkit-transform: translate(-50%, -10px);
-          transform: translate(-50%, -10px);
+  -webkit-transform: translate(-50%, 8px);
+          transform: translate(-50%, 8px);
 }
 .feedback-btn {
   max-width: 25rem;
@@ -414,6 +414,9 @@ textarea:focus {
   .feedback-form {
     padding: 3rem 5rem;
   }
+  .feedback-text {
+    width: 100%;
+  }
   .feedback .fotorama {
     margin-bottom: 3rem;
   }
@@ -448,6 +451,10 @@ textarea:focus {
   }
   .feedback-form {
     padding: 3rem 5rem;
+  }
+  .feedback-form label {
+    -webkit-transform: translate(-50%, -10px);
+            transform: translate(-50%, -10px);
   }
   .feedback .fotorama {
     margin-bottom: 3rem;
@@ -485,6 +492,15 @@ textarea:focus {
   }
   .container {
     padding: 3rem 3rem;
+  }
+  .feedback {
+    padding: 3rem;
+  }
+  .feedback h2 {
+    font-size: 14pt;
+  }
+  .feedback-form label {
+    font-size: 1rem;
   }
   .feedback-prev-btn {
     left: 0;
