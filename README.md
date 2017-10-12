@@ -48,3 +48,5 @@
 [Практика. Часть 7](danlisov.github.io/practical_work_7/src/index.html )
 
 [Урок 20](danlisov.github.io/Lesson_20/index.html)
+
+[Практика. Часть 8](danlisov.github.io/practical_work_8/src/index.html )
