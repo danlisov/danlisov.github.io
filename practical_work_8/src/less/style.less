@@ -562,14 +562,32 @@ button, input, a, textarea{
 		padding: 3rem 3rem;
 	}
 	.feedback{
+		width: 100%;
+		background: none;
 		h2{
 			font-size: 14pt;
 		}
+		&-slider{
+			position: relative;
+			box-shadow:none;
+			width: 100%;
+		}
+		.slick-list{
+			margin:auto 0;
+		}
+		.media{
+			position: absolute;
+			width: 100%;
+		}
 		padding: 3rem;
-		
+		&-text{
+			width: 100%;
+			margin-top: 12rem;
+		}
 		&-form{
+			padding: 1rem;
 			label{
-				font-size: 1rem;
+				font-size: 1.2rem;
 			}
 		}
 		&-prev-btn{
@@ -580,3 +598,5 @@ button, input, a, textarea{
 	}
 	}
 }
+
+
