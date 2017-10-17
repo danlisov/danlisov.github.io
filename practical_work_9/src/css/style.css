@@ -285,10 +285,10 @@ textarea:focus {
   /* Форма с обратной связью */
 }
 .feedback-prev-btn {
-  left: -4rem;
+  left: 0;
 }
 .feedback-next-btn {
-  right: -4rem;
+  right: 0;
 }
 .feedback-text {
   position: relative;
@@ -567,12 +567,8 @@ textarea:focus {
             box-shadow: none;
     width: 100%;
   }
-  .feedback .slick-list {
-    margin: auto 0;
-  }
   .feedback .media {
     position: absolute;
-    width: 100%;
   }
   .feedback-text {
     width: 100%;
@@ -596,5 +592,34 @@ textarea:focus {
   }
   .scheme-block {
     min-height: auto;
+  }
+}
+@media (max-width: 370px) {
+  .feedback {
+    padding: 0;
+    background: none;
+  }
+  .feedback-slider {
+    position: relative;
+    -webkit-box-shadow: none;
+            box-shadow: none;
+    width: 100%;
+  }
+  .feedback .media {
+    position: absolute;
+    width: 100%;
+  }
+  .feedback-text {
+    width: 100%;
+    margin-top: 12rem;
+  }
+  .feedback-prev-btn {
+    left: 20px;
+  }
+  .feedback-next-btn {
+    right: 20px;
+  }
+  .All_inclusive {
+    padding: 5rem 4rem;
   }
 }

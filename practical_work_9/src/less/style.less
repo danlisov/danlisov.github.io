@@ -340,12 +340,11 @@ button, input, a, textarea{
 	background: url(../img/feedback/bg.png);
 	background-size: cover;
 	&-prev-btn{
-		left: -4rem;
+		left: 0;
 	}
 &-next-btn{
-		right: -4rem;
+		right: 0;
 	}
-
 
 	&-text{
 		position: relative;
@@ -549,7 +548,7 @@ button, input, a, textarea{
 	}
 }
 }
-@media (max-width:991px){
+@media (max-width: 991px){
 	.main{
 		background-position: center right;
 	}
@@ -596,7 +595,7 @@ button, input, a, textarea{
 	}
 }
 
-@media(max-width: 767px){
+@media (max-width: 767px){
 	.main{
 		background-position: top left;
 		padding:3rem 3rem;
@@ -637,12 +636,8 @@ button, input, a, textarea{
 			box-shadow:none;
 			width: 100%;
 		}
-		.slick-list{
-			margin:auto 0;
-		}
 		.media{
 			position: absolute;
-			width: 100%;
 		}
 		padding: 3rem;
 		&-text{
@@ -672,3 +667,32 @@ button, input, a, textarea{
 }
 
 
+@media (max-width: 370px){
+	.feedback{
+		padding: 0;
+		background: none;
+		&-slider{
+			position: relative;
+			box-shadow:none;
+			width: 100%;
+		}
+		.media{
+			position: absolute;
+			width: 100%;
+		}
+		
+		&-text{
+			width: 100%;
+			margin-top: 12rem;
+		}
+		&-prev-btn{
+		left: 20px;
+	}
+	&-next-btn{
+		right: 20px;
+	}
+}
+.All_inclusive{
+padding:5rem 4rem;
+}
+}
