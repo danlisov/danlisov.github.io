@@ -1,0 +1,89 @@
+body{
+	background-color: #b8b8b8;
+}
+.container{
+	position: relative;
+}
+.contacts{
+	position: absolute;
+	top:20px;
+	left: 0;
+	color: white;
+	background-color: #c60b0b;
+	text-align: center;
+	width: 380px;
+	height: 400px;
+	padding: 30px;
+	z-index: 100;
+}
+
+.mapy{
+	margin-top: 20px;
+}
+.contacts p{
+	font-size: 18pt;
+}
+.footer{
+	height: 100px;
+	width: 100%;
+	padding: 20px;
+	background-color: #fff;
+}
+.tech{
+	font-weight: 600;
+}
+.sert{
+	text-align: center;
+	color: #b8b8b8;
+}
+.tower{
+	font-weight: 600;
+}
+.city{
+	text-align: right;
+}
+h3{
+	margin-top: -5px;
+	margin-bottom: 0;
+	font-weight: 600;
+}
+@media (max-width: 991px) {
+	.footer{
+		height: 380px;
+		background-color:none;
+		text-align: center;
+	}
+	.tech{
+		margin-top: 20px;
+		display: block;
+	}
+	.sert{
+		margin-top: 20px;
+		display: block;
+	}
+	.city{
+		margin-top: 20px;
+		text-align: center;
+		display: block;
+	}
+	.contacts{
+		margin-left: 15px;
+		width: 200px;
+		height: 240px;
+		padding: 5px;
+	}
+	.contacts p{
+		font-size: 10pt;
+	}
+}
+
+@media (max-width: 767px){
+	.contacts{
+		margin-left: 0;
+		position: relative;
+		width: 100%;
+	}
+	.contacts p{
+		font-size: 12pt;
+	}
+}
